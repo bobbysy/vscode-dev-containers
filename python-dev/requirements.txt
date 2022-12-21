@@ -1,0 +1,12 @@
+jupyterlab
+numpy
+pandas
+matplotlib
+transformers
+scikit-learn
+seaborn
+plotly
+spacy
+nltk
+--find-links https://download.pytorch.org/whl/cu116
+torch
